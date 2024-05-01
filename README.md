@@ -6,7 +6,7 @@
     <a href="#"><img height="72" alt="YouTube" src="icons/yt.jpg"></a>&nbsp;&nbsp;&nbsp;
     <a href="#"><img height="72" alt="Foursquare" src="icons/foursquare.webp"></a>&nbsp;&nbsp;&nbsp;
     <a href="#"><img height="72" alt="Spotify" src="icons/spotify.webp"></a>&nbsp;&nbsp;&nbsp;
-    <a href="#"><img height="72" alt="Discord" src="icons/discord.jpg"></a>
+    <a href="#"><img height="72" alt="Discord" src="icons/twitch.jpg"></a>
   </div>
   <hr>
   <h2>🍹 🍷 🍸 Hi! 🍩 🍧 🍰 </h2>
